@@ -200,7 +200,7 @@ cv::Mat res(cv::Size(input_shape, input_shape), CV_8UC3,seg_img.data_ptr());
 
 其他细节：
 
-
+https://blog.csdn.net/z240626191s/article/details/125417740
 
 权重链接：
 
